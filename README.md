@@ -8,7 +8,7 @@ Hasil eksperimen yang dilakukan menggunakan dataset [GTZAN](https://www.kaggle.c
 
 ----
 ## Arsitektur
-![Architecture](https://github.com/dimelang/Music-genre-classification/architecture.png)
+![Architecture](https://github.com/dimelang/Music-genre-classification/blob/main/architecture.png)
 
 
 
